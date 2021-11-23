@@ -1,5 +1,2 @@
 Some text has now been added.
 
-and more changes, lol.
-
-let's try to pull now.
